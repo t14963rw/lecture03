@@ -35,3 +35,12 @@ var add = function(a,b){
   var answer = frac(bunshi,bunbo);
   return answer;
 };
+
+
+add(frac(1,3),frac(4,3));
+
+add(frac(1,4),frac(1,1));
+
+add(frac(4,1),frac(2,3));
+
+add(frac(1,1),frac(2,1));
